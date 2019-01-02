@@ -1,0 +1,22 @@
+body {
+	background-color: #FFF8DD;
+}
+
+.separador_foto{
+	margin: 0% 15% 0% 15%;
+	padding-top: 2px;
+	background-color: #E8D012;
+}
+
+.principal{
+	margin: 2% 15% 0% 15%;
+	padding: 0px;
+	background-color: #FFF8DD;
+}
+
+.principal p{
+	color: #9D6F06;
+	padding: 0;
+	margin: 0;
+	text-align: justify;
+}
